@@ -4,6 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Remi'
 SITENAME = u'r3m1.com'
+SITESUBTITLE = u'Leveraging synergy for business fundamentals'
 SITEURL = ''
 
 TIMEZONE = 'Europe/Paris'
